@@ -4,7 +4,7 @@
 
 ### Run Instruction
 
-'python3 ekf_slam.py'
+`python3 ekf_slam.py`
 
 Implementation of Extended Kalman Filter from odometry and landmark measurements
 
